@@ -43,6 +43,7 @@ const ReportForm = () => {
 
 const styles = StyleSheet.create({
   container: {
+    marginTop: 150,
     flex: 1,
     padding: 20,
   },

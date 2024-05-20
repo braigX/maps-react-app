@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import MapViewComponent from './MapViewComponent';
-import ReportForm from './ReportForm';
+import MapViewComponent from '../Components/MapViewComponent';
+import ReportForm from '../Components/ReportForm';
 
 const Locations = () => {
   return (
